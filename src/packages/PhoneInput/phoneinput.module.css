@@ -1,0 +1,14 @@
+.phoneInput {
+  border: 1px solid var(--color-text-shade-3);
+  height: 43px !important;
+  box-sizing: border-box;
+  width: 100% !important;
+}
+.phoneInput:focus {
+  border: 1px solid var(--color-primary-shade-1);
+  box-shadow: none !important;
+}
+.dropDownStyle {
+  margin: 1px 0px 0px 0px !important;
+  width: 318px !important;
+}

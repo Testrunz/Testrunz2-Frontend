@@ -1,0 +1,18 @@
+.headerFlex {
+  background-color: var(--color-primary-shade-4);
+  padding: 8px 20px;
+}
+.procedureListFlex {
+  border-bottom: 2px solid var(--color-gray-2);
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.footer {
+  border-top: 4px solid var(--color-gray-2);
+  padding-top: 10px;
+  margin-top: 24px;
+}
+
+.overFlow {
+  overflow-y: scroll;
+}

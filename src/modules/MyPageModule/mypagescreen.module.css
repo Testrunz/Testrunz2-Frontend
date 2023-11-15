@@ -1,0 +1,23 @@
+.notificationsContainer {
+  margin-top: 20px;
+}
+.selected {
+  border-bottom: 4px solid var(--color-primary-shade-1) !important;
+}
+.calendarFlex {
+  margin-left: 20px;
+  background-color: var(--color-white);
+}
+.remainders {
+  margin-top: 8px;
+  border-top: 1px solid var(--color-primary-shade-4);
+  padding: 20px;
+  background-color: var(--color-white);
+}
+.notiHeader {
+  padding: 8px 20px;
+}
+.overAll {
+  padding: 20px;
+  overflow-y: scroll;
+}

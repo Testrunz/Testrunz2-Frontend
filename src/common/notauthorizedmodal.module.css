@@ -1,0 +1,14 @@
+.noBtn {
+  margin-right: 8px;
+}
+.yesBtn {
+  margin-left: 8px;
+  height: 47px;
+}
+.desText {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.footer {
+  align-items: end;
+}

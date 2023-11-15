@@ -1,0 +1,8 @@
+.rowBorder {
+  border-bottom: 1px solid var(--color-gray-2);
+  padding: 8px 20px;
+}
+
+.borderNone {
+  border-bottom: none !important;
+}

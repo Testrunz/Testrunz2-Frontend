@@ -1,0 +1,12 @@
+.captchaBox {
+  background-color: var(--color-secondary-shade-4);
+  width: fit-content;
+  padding: 2px 16px;
+  margin-right: 16px;
+}
+.captchaText {
+  letter-spacing: 10px;
+}
+.nextBtn {
+  margin: 16px 0;
+}

@@ -1,0 +1,17 @@
+.cancelBtn {
+  margin-right: 16px;
+  padding: 8px 24px;
+}
+.header {
+  padding: 8px 20px !important;
+}
+.selectedText {
+  margin-bottom: 20px;
+}
+.shareContainer {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.footer {
+  justify-content: flex-end;
+}

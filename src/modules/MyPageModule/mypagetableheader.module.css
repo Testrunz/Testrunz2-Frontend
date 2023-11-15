@@ -1,0 +1,9 @@
+.newTask {
+  margin: 0 16px;
+}
+.due {
+  margin-left: 16px;
+}
+.container {
+  padding: 16px 24px !important;
+}

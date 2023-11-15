@@ -1,0 +1,28 @@
+.btnStyle {
+  margin: 16px 0;
+}
+.signUpText {
+  margin-left: 4px;
+  color: var(--color-secondary-shade-1);
+}
+.loginTitle {
+  margin-bottom: 8px;
+}
+.signUpVia {
+  margin-top: 20px;
+}
+.signUpBtn {
+  background-color: var(--color-white);
+  width: 250px;
+  padding-left: 12px;
+  cursor: pointer;
+}
+.marginLeft {
+  margin-left: 6px;
+}
+.readText {
+  margin-left: 8px;
+}
+.readTextContainer {
+  margin-top: 12px;
+}

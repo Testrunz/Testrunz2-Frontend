@@ -1,0 +1,35 @@
+.common {
+  border-radius: 50px;
+  min-height: 30px;
+  padding: 0 16px;
+  /* width: fit-content; */
+}
+
+.type-primary {
+  background-color: var(--color-primary-shade-1);
+}
+.type-secondary {
+  background-color: var(--color-secondary-shade-1);
+}
+.type-link {
+  background-color: transparent;
+}
+.type-success {
+  background-color: var(--color-success);
+}
+.type-success-gradient {
+  background-color: #c6ffd9;
+}
+.type-error {
+  background-color: var(--color-error);
+}
+.type-error-gradient {
+  background-color: #ffb9b9;
+}
+
+.actionLeftStyle {
+  margin-right: 8px;
+}
+.actionRight {
+  margin-left: 8px;
+}

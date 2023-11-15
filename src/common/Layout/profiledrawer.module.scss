@@ -1,0 +1,44 @@
+.image {
+  height: 300px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+.overAll {
+  position: relative;
+  padding: 20px;
+}
+.titleFlex {
+  margin-bottom: 20px;
+}
+.editBtn {
+  border-radius: 50px;
+  padding: 0 16px;
+  height: 30px;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+.inputFlexMarginRight {
+  margin-right: 8px;
+}
+.inputFlexMarginLeft {
+  margin-left: 8px;
+}
+.marginVer {
+  margin: 16px 0;
+}
+.disableProfileEdit {
+  pointer-events: none;
+}
+
+.labsAssign{
+  background-color: var(--color-primary-shade-4);
+  padding: 10px 16px;
+  margin-right: 10px;
+  border-radius: 6px;
+  width: fit-content;
+  margin-top: 10px;
+}

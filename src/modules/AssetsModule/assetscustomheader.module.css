@@ -1,0 +1,15 @@
+.sortTitleFlex {
+  margin-bottom: 8px;
+}
+.inputMargin {
+  margin: 0 16px;
+  flex: 1;
+}
+
+.sortTitleFlexSettings {
+  margin: 8px
+}
+.inputMarginSettings {
+  margin: 16px;
+  flex: 1;
+}

@@ -1,0 +1,245 @@
+.common {
+  /* font-size: 14px; */
+  font-family: "Poppins-Regular";
+  /* font-weight: 400; */
+}
+.color-primary {
+  color: var(--color-text-shade-1);
+}
+.color-shade-2 {
+  color: var(--color-text-shade-2);
+}
+.color-shade-3 {
+  color: var(--color-text-shade-3);
+}
+.color-tertiary-shade-1 {
+  color: var(--color-tertiary-shade-1);
+}
+.color-tertiary-shade-2 {
+  color: var(--color-tertiary-shade-2);
+}
+.color-tertiary-shade-3 {
+  color: var(--color-tertiary-shade-3);
+}
+
+.color-secondary-shade-1 {
+  color: var(--color-secondary-shade-1);
+}
+.color-secondary-shade-2 {
+  color: var(--color-secondary-shade-2);
+}
+.color-secondary-shade-3 {
+  color: var(--color-secondary-shade-3);
+}
+.color-theme {
+  color: var(--color-primary-shade-1);
+}
+.color-white {
+  color: var(--color-white);
+}
+
+.color-gray {
+  color: (var--color-text-shade-3);
+}
+.color-error {
+  color: var(--color-error);
+}
+.color-success {
+  color: var(--color-success);
+}
+.bold-bold {
+  font-family: "Poppins-Bold";
+}
+.bold-semiBold {
+  font-family: "Poppins-SemiBold";
+}
+.bold-light {
+  font-family: "Poppins-Light";
+}
+.text-start {
+  text-align: start;
+}
+.text-end {
+  text-align: end;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}
+
+.text-2 {
+  font-size: 2px;
+}
+.text-4 {
+  font-size: 4px;
+}
+.text-6 {
+  font-size: 6px;
+}
+.text-8 {
+  font-size: 8px;
+}
+.text-10 {
+  font-size: 10px;
+}
+.text-12 {
+  font-size: 12px;
+}
+.text-12 {
+  font-size: 13px;
+}
+.text-14 {
+  font-size: 14px;
+}
+.text-15 {
+  font-size: 15px;
+}
+.text-16 {
+  font-size: 16px;
+}
+.text-18 {
+  font-size: 18px;
+}
+.text-20 {
+  font-size: 20px;
+}
+.text-22 {
+  font-size: 22px;
+}
+.text-24 {
+  font-size: 24px;
+}
+.text-26 {
+  font-size: 26px;
+}
+.text-28 {
+  font-size: 28px;
+}
+.text-30 {
+  font-size: 30px;
+}
+.text-32 {
+  font-size: 32px;
+}
+.text-34 {
+  font-size: 34px;
+}
+.text-36 {
+  font-size: 36px;
+}
+.text-38 {
+  font-size: 38px;
+}
+.text-40 {
+  font-size: 40px;
+}
+.text-42 {
+  font-size: 42px;
+}
+.text-44 {
+  font-size: 44px;
+}
+.text-46 {
+  font-size: 46px;
+}
+.text-48 {
+  font-size: 48px;
+}
+.text-50 {
+  font-size: 50px;
+}
+
+.text-h1 {
+  font-size: 96px;
+  line-height: 1;
+}
+.text-h2 {
+  font-size: 64px;
+}
+.text-h3 {
+  font-size: 48px;
+}
+.text-h4 {
+  font-size: 34px;
+}
+
+.text-title {
+  font-size: 20px;
+  font-family: "Poppins-SemiBold";
+}
+
+.text-subTitle {
+  font-size: 18px;
+  font-family: "Poppins-SemiBold";
+}
+
+.text-bodyBold {
+  font-size: 14px;
+  font-family: "Poppins-Medium";
+}
+
+.text-bodyMedium {
+  font-size: 14px;
+  font-family: "Poppins-Regular";
+}
+
+.text-bodyLight {
+  font-size: 14px;
+  font-family: "Poppins-light";
+}
+
+.text-captionBold {
+  font-size: 12px;
+  font-family: "Poppins-Medium";
+}
+
+.text-captionBoldItalic {
+  font-size: 12px;
+  font-family: "Poppins-MediumItalic";
+}
+
+.text-captionRegular {
+  font-size: 12px;
+  font-family: "Poppins-Regular";
+}
+
+.text-captionRegularItalic {
+  font-size: 12px;
+  font-family: "Poppins-Italic";
+}
+
+.text-smallBold {
+  font-size: 10px;
+  font-family: "Poppins-Medium";
+}
+.text-smallRegular {
+  font-size: 10px;
+  font-family: "Poppins-Regular";
+}
+
+.text-button-1 {
+  font-size: 14px;
+  font-family: "Poppins-Regular";
+}
+
+.text-button-2 {
+  font-size: 14px;
+  font-family: "Poppins-Medium";
+}
+
+.text-button-3 {
+  font-size: 14px;
+  font-family: "Poppins-SemiBold";
+}
+.text-button-4 {
+  font-size: 18px;
+  font-family: "Poppins-SemiBold";
+}

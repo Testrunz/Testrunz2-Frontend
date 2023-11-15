@@ -1,0 +1,17 @@
+.cancelBtn {
+  margin-right: 16px;
+  padding: 5.5px 10px;
+}
+
+.footer {
+  justify-content: flex-end;
+}
+.inputMarginRight20 {
+  margin-right: 20px;
+}
+.inputFlexMargin {
+  margin-bottom: 16px;
+}
+.overAll {
+  margin-top: 20px;
+}

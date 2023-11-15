@@ -1,0 +1,45 @@
+.addBtn {
+  width: fit-content;
+}
+.titleFlex {
+  margin: 16px 0;
+}
+.axisLabel {
+  margin: 0 16px;
+}
+.xAxisInput {
+  width: 150px;
+}
+
+.colorInput {
+  -webkit-appearance: none;
+  border: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+}
+.colorInput::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+.colorInput::-webkit-color-swatch {
+  border: none;
+  border-radius: 4px;
+}
+.addAxis {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.btnDelete {
+  width: 50px;
+  padding: 5px;
+  height: 40px;
+}
+.yAxiosBtn {
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+.yAxiosContainer {
+  /* background-color: blue; */
+  overflow-y: scroll;
+}

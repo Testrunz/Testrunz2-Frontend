@@ -1,0 +1,9 @@
+.btnContainer {
+  background-color: var(--color-white);
+  width: 250px;
+  padding-left: 12px;
+}
+
+.marginLeft {
+  margin-left: 6px;
+}

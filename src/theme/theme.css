@@ -1,0 +1,42 @@
+/* 
+  author: arul
+  about: css themes directly added to the root elements
+  notes: please maintain the css variables in all the files
+*/
+:root {
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  /* Primary brand */
+  --color-primary-shade-1: #ffc60b;
+  --color-primary-shade-2: #ffdc6b;
+  --color-primary-shade-3: #ffeaa5;
+  --color-primary-shade-4: #fff4d0;
+
+  /* Secondary brand */
+  --color-secondary-shade-1: #ff8400;
+  --color-secondary-shade-2: #ffa647;
+  --color-secondary-shade-3: #ffcb93;
+  --color-secondary-shade-4: #ffe3c5;
+
+  /* Tertiary brand */
+  --color-tertiary-shade-1: #4f200d;
+  --color-tertiary-shade-2: #744f40;
+  --color-tertiary-shade-3: #9e847a;
+  --color-tertiary-shade-4: #c0afa8;
+
+  /* Text brand */
+  --color-text-shade-1: #181818;
+  --color-text-shade-2: #565656;
+  --color-text-shade-3: #9f9f9f;
+
+  --color-gray-1: #e4e4e4;
+  --color-gray-2: #f3f3f3;
+  --color-gray-3: #9f9f9f;
+  --color-gray-4: #a8a8a8;
+  --color-gray-5: #767676;
+
+  --color-error: #e2445c;
+  --color-success: #32e46f;
+  --color-warning: #dcbd75;
+}

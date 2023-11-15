@@ -1,0 +1,27 @@
+.createText {
+  margin-bottom: 4px;
+}
+.createFlex {
+  margin-right: 100px;
+}
+.dateFlex {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 4px solid var(--color-primary-shade-3);
+}
+.overAll {
+  background-color: var(--color-white);
+  padding: 20px;
+}
+.scroll {
+  overflow-y: scroll;
+}
+.fullText {
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+.footerContainer {
+  margin-top: 8px;
+  background-color: var(--color-white);
+  padding: 10px 24px;
+}

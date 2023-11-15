@@ -1,0 +1,42 @@
+.image {
+  height: 300px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.overAll {
+  position: relative;
+  padding: 20px;
+}
+.titleFlex {
+  margin-bottom: 20px;
+}
+.editBtn {
+  border-radius: 50px;
+  padding: 0 16px;
+  height: 30px;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+.inputFlexMarginRight {
+  margin-right: 8px;
+}
+.inputFlexMarginLeft {
+  margin-left: 8px;
+}
+.marginVer {
+  margin: 16px 0;
+}
+
+.profileEdit {
+  z-index: 2;
+  margin-bottom: 30px;
+  position: relative;
+}
+.footer {
+  /* box-shadow: -3px 0px 16px 0px #0000001a; */
+  /* border-top: 1px solid; */
+}

@@ -1,0 +1,28 @@
+.overAll {
+  background-color: var(--color-white);
+}
+.settingText {
+  padding-top: 20px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.listText {
+  padding: 20px 16px;
+  width: 100%;
+  border-radius: 0;
+}
+.leftContainer {
+  box-shadow: 3px 4px 4px 0px #0000001a;
+}
+.activeModule {
+  background-color: var(--color-primary-shade-1);
+}
+.rightOverall {
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.rightOverall {
+  padding: 10px 24px;
+}

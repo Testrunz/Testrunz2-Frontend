@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+.cancelBtn {
+  margin-right: 20px;
+}
+.yesBtn {
+  height: 42px;
+}

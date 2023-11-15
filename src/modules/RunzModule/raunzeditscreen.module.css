@@ -1,0 +1,62 @@
+.subTitle {
+  margin-top: 4px;
+}
+.overAll {
+  background-color: var(--color-white);
+  /* padding: 20px 0px; */
+  padding-top: 20px;
+}
+.svgShare {
+  margin: 0 24px;
+}
+.svgMore {
+  margin-left: 24px;
+}
+.moreFlex {
+  margin-top: 20px;
+}
+.statusBtn {
+  width: fit-content;
+  padding: 0 8px;
+  height: 24px;
+  border-radius: 20px;
+  background-color: var(--color-primary-shade-4);
+  border: none !important;
+}
+.badge {
+  margin-top: 8px;
+}
+.borderBottom {
+  height: 6px;
+  width: 100%;
+  background-color: var(--color-primary-shade-3);
+  margin-top: 16px;
+}
+.preTag {
+  white-space: pre-wrap; /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+.textContent {
+  overflow-y: scroll;
+  padding: 20px;
+  position: relative;
+}
+.svgNewWindow {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+.header {
+  padding: 0 20px;
+}
+.footer {
+  padding: 8px 20px;
+  box-shadow: -3px 0px 16px 0px #0000001a;
+}
+.actionFlex {
+  padding: 30px;
+  height: 100%;
+}

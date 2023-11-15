@@ -1,0 +1,15 @@
+.header {
+  height: 90px;
+  box-shadow: 0px 4px 10px 0px #0000001a;
+  padding: 0 20px;
+}
+.markTitle {
+  text-decoration: underline;
+}
+.title {
+  margin-left: 16px;
+}
+.listRow {
+  padding: 8px 20px;
+  border-bottom: 1px solid var(--color-gray-2);
+}

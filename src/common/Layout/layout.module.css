@@ -1,0 +1,51 @@
+.headerContainer {
+  box-shadow: 0px 1px 3px 0px #0000000d;
+  height: 80px;
+  background-color: var(--color-white);
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  padding: 0;
+  z-index: 12;
+}
+.sideBarContainer {
+  padding-top: 80px;
+  background-color: var(--color-white) !important;
+  height: 100vh !important;
+  overflow-y: scroll;
+  box-shadow: 3px 4px 4px 0px #0000001a;
+}
+.sideBarContainer::-webkit-scrollbar-track {
+  /* background: red !important; */
+}
+.sideBarContainer::-webkit-scrollbar {
+  width: 0px;
+}
+.sideWidth {
+  max-width: 350px !important;
+  min-width: 350px !important;
+}
+.backgroundColor {
+  background-color: var(--color-gray-2) !important;
+}
+.content {
+  margin-top: 80px;
+  /* padding: 20px; */
+  /* overflow-y: scroll; */
+  padding-left: 80px;
+  /* background-color: var(--color-white); */
+}
+.svgMenu {
+  margin-right: 10px;
+}
+.svgQuestion {
+  margin: 0 16px;
+}
+.svgProfile {
+  margin-right: 20px;
+}
+.seePlansDiv {
+  margin-top: 30px;
+  padding-bottom: 30px;
+}

@@ -1,0 +1,65 @@
+.common {
+  cursor: pointer;
+  position: relative;
+  box-sizing: border-box !important;
+  border: none;
+  background-color: transparent;
+}
+
+.height-small {
+  padding: 6px 16px;
+  border-radius: 4px;
+}
+
+.height-medium {
+  padding: 8px 16px;
+  border-radius: 6px;
+}
+.height-large {
+  padding: 10px 16px;
+  border-radius: 8px;
+}
+
+.buttonTypes-primary {
+  background-color: var(--color-primary-shade-1);
+}
+
+.buttonTypes-secondary {
+  border: 2px solid var(--color-primary-shade-1);
+}
+
+.buttonTypes-tertiary {
+  background-color: var(--color-primary-shade-4);
+}
+
+.buttonTypes-tertiary-1 {
+  background-color: var(--color-white);
+  border: 2px solid var(--color-text-shade-1);
+}
+
+.buttonTypes-link {
+  padding: 0;
+  width: fit-content;
+}
+.buttonTypes-link-1 {
+  padding: 0;
+  width: fit-content;
+}
+
+.disabled-primary {
+  background-color: var(--color-text-shade-3);
+  cursor: not-allowed;
+}
+
+.disabled-secondary {
+  background-color: var(--color-text-shade-3);
+  cursor: not-allowed;
+}
+.disabled-tertiary {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.disabled-tertiary-1 {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

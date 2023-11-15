@@ -1,0 +1,15 @@
+.btnCommon {
+  border-radius: 8px;
+  padding: 0;
+  height: 48px;
+  min-width: 49px;
+}
+.btnActive {
+  background-color: var(--color-primary-shade-4);
+}
+.btnMargin {
+  margin-left: 4px;
+}
+.btnDeActive {
+  background-color: var(--color-gray-2);
+}
